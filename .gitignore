@@ -2,5 +2,6 @@
 /report.xml 
 /.phpstorm.meta.php 
 /.phpunit.result.cache
+/.vscode
 /build
 /vendor

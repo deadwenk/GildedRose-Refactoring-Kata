@@ -31,16 +31,16 @@ The project uses composer to install:
 
 ## Folders
 
-- `src` - contains the two classes:
-    - `Item.php` - this class should not be changed
-    - `GildedRose.php` - this class needs to be refactored, and the new feature added
+- `src` - contains several classes:
+    - `Item.php` - this class describes the GildedRose item
+    - `GildedRose.php` - this class works with items and update items quality
+    - `ItemInterface.php` - this class is item iterface describes two main methods - updateQuality and updateSellIn
+    - `ItemAdapter.php` - adapter for item class
+    - `Items\BaseItem.php` - base class for items
 - `tests` - contains the tests
-    - `GildedRoseTest.php` - starter test.
-        - Tip: ApprovalTests has been included as a dev dependency, see the PHP version of
-          the [Theatrical Players Refactoring Kata](https://github.com/emilybache/Theatrical-Players-Refactoring-Kata/)
-          for an example
+    - `GildedRoseTest.php` - GildedRose approval test
 - `Fixture`
-    - `texttest_fixture.php` this could be used by an ApprovalTests, or run from the command line
+    - `texttest_fixture.php` - generates approval test json file
 
 ## Testing
 

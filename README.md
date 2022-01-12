@@ -1,29 +1,15 @@
-# GildedRose Kata - PHP Version
-
-See the [top level readme](../README.md) for general information about this exercise. This is the PHP version of the
-GildedRose Kata.
-
 ## Installation
-
-The kata uses:
-
-- [PHP 7.3 or 7.4 or 8.0+](https://www.php.net/downloads.php)
-- [Composer](https://getcomposer.org)
-
-Recommended:
-
-- [Git](https://git-scm.com/downloads)
 
 Clone the repository
 
 ```sh
-git clone git@github.com:emilybache/GildedRose-Refactoring-Kata.git
+git clone git@github.com:deadwenk/GildedRose-Refactoring-Kata.git
 ```
 
 or
 
 ```shell script
-git clone https://github.com/emilybache/GildedRose-Refactoring-Kata.git
+git clone https://github.com/deadwenk/GildedRose-Refactoring-Kata.git
 ```
 
 Install all the dependencies using composer
@@ -132,5 +118,3 @@ PHPUnit `composer phpstan` can be run:
 ```shell script
 ps
 ```
-
-**Happy coding**!

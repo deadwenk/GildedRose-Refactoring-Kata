@@ -1,7 +1,7 @@
 {
     "days": 31,
     "items": {
-        "1641672361": {
+        "1641795598": {
             "name": "+5 Dexterity Vest",
             "class": "GildedRose\\Items\\BaseItem",
             "sellIn": [
@@ -71,7 +71,7 @@
                 0
             ]
         },
-        "1641672543": {
+        "1641795763": {
             "name": "Aged Brie",
             "class": "GildedRose\\Items\\Aged",
             "sellIn": [
@@ -141,7 +141,7 @@
                 50
             ]
         },
-        "1641672554": {
+        "1641795774": {
             "name": "Elixir of the Mongoose",
             "class": "GildedRose\\Items\\BaseItem",
             "sellIn": [
@@ -211,7 +211,7 @@
                 0
             ]
         },
-        "1641672706": {
+        "1641795920": {
             "name": "Sulfuras, Hand of Ragnaros",
             "class": "GildedRose\\Items\\Sulfuras",
             "sellIn": [
@@ -281,7 +281,7 @@
                 80
             ]
         },
-        "1641672718": {
+        "1641795930": {
             "name": "Sulfuras, Hand of Ragnaros",
             "class": "GildedRose\\Items\\Sulfuras",
             "sellIn": [
@@ -351,7 +351,7 @@
                 80
             ]
         },
-        "1641672889": {
+        "1641796104": {
             "name": "Backstage passes to a TAFKAL80ETC concert",
             "class": "GildedRose\\Items\\BackstagePasses",
             "sellIn": [
@@ -421,7 +421,7 @@
                 0
             ]
         },
-        "1641672900": {
+        "1641796115": {
             "name": "Backstage passes to a TAFKAL80ETC concert",
             "class": "GildedRose\\Items\\BackstagePasses",
             "sellIn": [
@@ -491,7 +491,7 @@
                 0
             ]
         },
-        "1641672910": {
+        "1641796125": {
             "name": "Backstage passes to a TAFKAL80ETC concert",
             "class": "GildedRose\\Items\\BackstagePasses",
             "sellIn": [
@@ -561,7 +561,7 @@
                 0
             ]
         },
-        "1641673056": {
+        "1641796271": {
             "name": "Conjured Mana Cake",
             "class": "GildedRose\\Items\\Conjured",
             "sellIn": [
@@ -599,10 +599,10 @@
             ],
             "quality": [
                 6,
-                5,
                 4,
-                3,
-                1,
+                2,
+                0,
+                0,
                 0,
                 0,
                 0,
